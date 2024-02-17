@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ScottCarnahan
-- 👀 I’m interested in ... moonshine, vertex algebras, conformal field theory, and related areas of algebra and geometry
-- 🌱 I’m currently learning ... lean4, mathlib4
-- 💞️ I’m looking to collaborate on ... verified proofs of some vertex-algebraic theorems, e.g., Aut(V^\natural) is a finite simple group (cf. https://arxiv.org/abs/2206.15391)
+Scott Carnahan
+
+- Assoc. Prof., Dept. of Mathematics, Univ. of Tsukuba
+
+- Main research topics: moonshine, vertex algebras, conformal field theory, automorphic forms, infinite dimensional Lie algebras, algebraic curves
+- What I'm doing on Github: mathlib4, preparing to formalize the monster vertex algebra (see https://arxiv.org/abs/2206.15391)
 - 📫 How to reach me ... zulip PM seems to work for lean stuff.  Otherwise, tsukuba email, I guess.
 
 <!---
